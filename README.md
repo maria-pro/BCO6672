@@ -43,12 +43,3 @@ T: Tableau
 **12 In class presentation**
 T: same
 
-
-career development, ethical behaviour, communication and management skills within a variety of professional scenarios.
-
-contemporary issues relevant to an ICT professional such as professional values and ethical codes of conduct 
-related to working in local and global communities and individual responsibilities within these. 
-The unit also includes the role and importance of professional standards organisations, 
-
-involvement in business practices (eg negotiation), professional competencies 
-(eg risk assessments and feasibility studies) and contemporary issues related to ICT (eg security, privacy, internet censorship, workplace surveillance and digital intellectual property) required to contribute to an equitable and sustainable world.

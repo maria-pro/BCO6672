@@ -1,4 +1,4 @@
-# BCO6672
+# BCO6672 Business analytics and visualization
 
 https://www.seek.com.au/job/40901788
 

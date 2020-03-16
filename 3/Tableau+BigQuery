@@ -6,7 +6,12 @@ Before you begin, gather this connection information:
 
 -	Google BigQuery email or phone, and password
 
+Reference-style: 
+![alt text][logo]
+
 (https://help.tableau.com/current/pro/desktop/en-us/Img/example_googlebigquery2.png "Logo Title Text 1")
+
+
 
 Make the connection and set up the data source
 

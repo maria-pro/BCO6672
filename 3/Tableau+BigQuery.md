@@ -1,6 +1,6 @@
-#Connecting to BigQuery from Tableau 
+# Connecting to BigQuery from Tableau 
 
-##Before you begin
+## Before you begin
 
 Before you begin, gather this connection information:
 
@@ -12,14 +12,13 @@ Reference-style:
 (https://help.tableau.com/current/pro/desktop/en-us/Img/example_googlebigquery2.png "Logo Title Text 1")
 
 
-
 Make the connection and set up the data source
 
-1.	Start Tableau and under Connect, select `Google BigQuery`. For a complete list of data connections, select More under To a Server. In the tab Tableau opens in your default browser, do the following:
+1.	Start Tableau and under Connect, select `Google BigQuery`. For a complete list of data connections, select `More` under `To a Server`. In the tab Tableau opens in your default browser, do the following:
 
-a.	Sign in to Google BigQuery using your email or phone, and then select Next to enter your password. If multiple accounts are listed, select the account that has the Google BigQuery data you want to access and enter the password, if you're not already signed in.
+a.	Sign in to `Google BigQuery` using your email or phone, and then select `Next` to enter your password. If multiple accounts are listed, select the account that has the Google BigQuery data you want to access and enter the password, if you're not already signed in.
  
-b.	Select Accept so that Tableau can access your Google BigQuery data.
+b.	Select `Accept` so that Tableau can access your `Google BigQuery` data.
 
 c.	Close the browser window when notified to do so.
 

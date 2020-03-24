@@ -9,12 +9,15 @@ Collaborative practices
 Groups formed for Assessment
 
 **Week 2** Data Strategy: development and implementation 
+
 Data Sources and data structures
 
 **Week 3** Data quality and integrity 
+
 Introduction to Tableau and data-driven communication
 
 **Week 4** Business intelligence best practices
+
 Communicating data insights, dashboarding
 
 **Week 5** Data visualisations

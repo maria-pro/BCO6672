@@ -21,16 +21,27 @@ Learning objectives
 3. To be able to prep data in Tableau.
 ```
 
+#### Datasets
+
+Please see VU Collaborate for datasets that are used in this tutorial
+
+####  Resources
+
+We will be using [this ethepad](https://video.etherpad.com/p/bco6007){:target="_blank"} to document the progress
+
+
 ### Starting with Tableau - interface  (10 minutes)
 
-Start `Tableau` and familiarise yourself with the interface. Watch this tutorial
+Start `Tableau` and familiarise yourself with the interface. `Tableau` has intuitive interface, so lots of elements are vary familiar there.
+
+Watch [this tutorial](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm) 
 
 
 **Questions**:
 
-### Basic elements and simple data management in `Tableau` (10 minutes + 10 minutes)
+### Basic elements and simple data management in `Tableau` (10 minutes + 15 minutes)
 
-Upload the sample data file and complete the tutorial [here]() 
+Learn about the basic workflow in Tableau and complete the tutorial [here](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm) 
 
 The key concepts are measures and dimensions that are used to organise your data
 
@@ -67,6 +78,7 @@ Improve your visualization based on the feedback received and publish it.
 
 
 ### Resources: 
+
 
 
 

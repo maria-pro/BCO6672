@@ -60,6 +60,17 @@ Learn about the basic workflow in Tableau and complete the tutorial [here](https
 
 - Tableau assumes you want to sum measures any time you use them, by default. You can change the aggregation function with a right click on that variable.
 
+- The `Marks` card controls many visualization aspects. Drag variables from the left side bar to the Marks card to control color, text, tooltips, and more. Use it after your rows and columns are set.
+
+- There are many chart options - `Tableau` makes suggestions in the expandable `Show Me` menu to the right. Suggestions are based on the current variables used in the worksheet.
+
+- The formatting can be changed. Right click on whatever you want to change and you’ll see options.
+
+- To filtering data you  drag a variable to the `filter` area. Right click on the pill and choose `Show Filter` to create an interactive filter.
+
+- You can create a `group`, `set`, or `calculated field` by right clicking on a variable. These options allow you to group data and find more insights.
+
+- You can make dashboards by dragging and dropping finished worksheets onto a new dashboard. Then viewers can sort and filter your charts, but they can’t break your dashboards.
 
 **Questions**:
 

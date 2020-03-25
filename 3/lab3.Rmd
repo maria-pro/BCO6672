@@ -1,0 +1,72 @@
+---
+title: "BCO6672 - Lab 3"
+author: "MariaProkofieva"
+date: "25/03/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Tutorial 3
+
+```
+Learning objectives
+
+1. To familiarise yourself with Tableau. 
+
+2. To learn basic concepts elements in Tableau
+
+3. To be able to prep data in Tableau.
+```
+
+### Starting with Tableau - interface  (10 minutes)
+
+Start `Tableau` and familiarise yourself with the interface. Watch this tutorial
+
+
+**Questions**:
+
+### Basic elements and simple data management in `Tableau` (10 minutes + 10 minutes)
+
+Upload the sample data file and complete the tutorial [here]() 
+
+The key concepts are measures and dimensions that are used to organise your data
+
+**Questions**:
+
+- What are dimensions?
+
+- What are measures?
+
+- Can the same variable be a dimension in one case and a measure in another? Give examples
+
+
+### Working with messy data in `Tableau` (10 minutes)
+
+Complete the tutorial here
+
+
+**Questions**:
+
+### Tasks:
+
+1. Upload the file `avocado.csv` located in the tutorial folder and examine it. How can the data quality there can be improved. 
+
+Clean the data and 
+
+2. What variables can you use for dimensions and measures? 
+
+3. Develop three visualisations with different set of dimensions and measures?
+Select one visualisation and discuss it your working group. 
+
+Ask your peers to identify 3 positives and 3 negatives about your chosen visualisation.
+
+Improve your visualization based on the feedback received and publish it.
+
+
+### Resources: 
+
+
+

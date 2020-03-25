@@ -15,7 +15,7 @@ Data Sources and data structures
 
 **Week 3** Data quality and integrity 
 
-Introduction to Tableau and data-driven communication
+[Tutoial 3](/3/lab3.Rmd): Introduction to Tableau and data-driven communication
 
 **Week 4** Business intelligence best practices
 

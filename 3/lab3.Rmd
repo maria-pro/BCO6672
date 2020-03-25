@@ -43,7 +43,23 @@ Watch [this tutorial](https://help.tableau.com/current/pro/desktop/en-us/environ
 
 Learn about the basic workflow in Tableau and complete the tutorial [here](https://help.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.htm) 
 
-The key concepts are measures and dimensions that are used to organise your data
+
+**Key take-aways**:
+
+- It’s pretty much all drag and drop!
+
+- You import data in the `Data Source` tab.
+
+- Your work is in worksheets. Each worksheet is in a tab at the bottom of the window (Excel style).
+
+- Tableau splits your data columns into dimensions and measures. It infers the type of data based on a column’s contents. It shows little symbols next to each variable name to represent numeric, string, geo, boolean, and date data types. 
+
+- `Dimensions` are **qualitative (categorical)** variables, including strings and dates. They are discrete, by default, colored blue.
+
+- `Measures` are **quantitative (numeric)** variables that you can sum and average. They are continuous, by default, colored green.
+
+- Tableau assumes you want to sum measures any time you use them, by default. You can change the aggregation function with a right click on that variable.
+
 
 **Questions**:
 

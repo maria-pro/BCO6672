@@ -40,7 +40,7 @@ Communicating data insights, dashboarding
 
 ===========================================
 
-
-
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+| cell1 | cell2 | cell3 |
+||-------|-------|-------||
+|| cell1 | cell2 | cell3 ||
+|} cell1 | cell2 | cell3 ||
